@@ -5,13 +5,11 @@
 <h1 align="center">Hi 👋, I'm Alaattin Uysal</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 📝 I regularly write articles on [@alaaddinuysal9](@alaaddinuysal9)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alaattin uysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaattin uysal" height="30" width="40" /></a>
-<a href="https://medium.com/@alaattin uysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alaattin uysal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaattin-uysal-737077264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaattin uysal" height="30" width="40" /></a>
+<a href="https://medium.com/@alaaddinuysal9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alaattin uysal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
