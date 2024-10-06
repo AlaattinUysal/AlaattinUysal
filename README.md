@@ -7,6 +7,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
+[![](https://visitcount.itsvg.in/api?id=AlaattinUysal&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AlaattinUysal&label=Profile%20Views&color=6&icon=0&pretty=false" />
+</a>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/alaattin-uysal-737077264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaattin uysal" height="30" width="40" /></a>
 <a href="https://medium.com/@alaaddinuysal9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alaattin uysal" height="30" width="40" /></a>
