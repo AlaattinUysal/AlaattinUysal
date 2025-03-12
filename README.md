@@ -17,7 +17,6 @@
   <span style="background-color: #1976D2; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
    <img src="https://i.pinimg.com/736x/20/ca/a3/20caa341782a8c576064f4c9ce6fd61a.jpg" alt="Laptop Logo" width="30" height="30" style="vertical-align: middle;">
     <strong>Programming Lingos and Tools</strong>
-  <img src="https://i.pinimg.com/736x/20/ca/a3/20caa341782a8c576064f4c9ce6fd61a.jpg" alt="Laptop Logo" width="30" height="30" style="vertical-align: middle;">
   </span>
 </p>
 
@@ -31,24 +30,26 @@
     <span>C++</span>
   </span>
 
-  <span style="background-color: #212121; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30">
-    <span>GIT</span>
+ <span style="background-color: #E34F26; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
+    <img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" width="80" height="20">
   </span>
 
   <span style="background-color: #336791; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30">
     <span>SQL-POSTGRESQL</span>
   </span>
-
-  <span style="background-color: #E34F26; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
-    <img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" width="80" height="20">
+  
+  <span style="background-color: #212121; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30">
+    <span>GIT</span>
   </span>
-
+  
   <span style="background-color: #1572B6; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
     <img src="https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" width="80" height="20">
   </span>
 </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaattinuysal&show_icons=true&locale=en&layout=compact" alt="alaattinuysal" /></p>
 
