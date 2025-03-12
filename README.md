@@ -1,5 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D12AQGTZHLn1znUfg/article-cover_image-shrink_600_2000/0/1666444068672?e=2147483647&v=beta&t=QGgptgPQN7EiE0zKY_U7dtlPN9DOJDV5mpdq6tT03AA)
-
+<img src="https://i.pinimg.com/736x/22/01/65/2201659346a4e7f3f2c16e4520e3fb2f.jpg" alt="MasterHead" width="400" height="auto">
 
 <h1 align="center">Hi 👋, I'm Alaattin Uysal</h1>
 <h3 align="center">Full-Stack Developer</h3>
