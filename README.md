@@ -3,15 +3,19 @@
 <h1 align="center">Hi 👋, I'm Alaattin Uysal</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
+<h3 align="left">
+    <span style="background-color: transparent; padding: 2px; display: inline-block;">
+        <img align="center" src="https://i.pinimg.com/736x/4f/f5/5f/4ff55f4b751c7c517e83c22d04aedf24.jpg" alt="pinterest icon" height="25" width="30" style="filter: invert(100%) brightness(100%) contrast(100%); background-color: #0d1117; padding: 2px; border-radius: 3px;" />
+    </span>
+    Socials:
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/alaattin-uysal-737077264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaattin uysal" height="25" width="30" /></a>
-<a href="https://medium.com/@alaaddinuysal9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alaattin uysal" height="25" width="30" /></a>
+<p align="left" style="position: relative;">
+    <span style="position: absolute; left: 150px; top: 0;">
+        <a href="https://www.linkedin.com/in/alaattin-uysal-737077264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaattin uysal" height="25" width="30" style="margin: 0 10px;" /></a>
+        <a href="https://medium.com/@alaaddinuysal9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alaattin uysal" height="25" width="30" style="margin: 0 10px;" /></a>
     </span>
 </p>
-
 
 <p align="left">
   <span style="background-color: #1976D2; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center; gap: 5px;">
