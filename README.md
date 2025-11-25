@@ -18,8 +18,8 @@
 
 ### 👨‍💻 Hakkımda
 
-Merhaba! Ben ölçeklenebilir yazılım çözümleri ve yapay zeka entegrasyonları üzerine odaklanan bir **Geliştiriciyim**.
-
+Merhaba, Ben 3.Sınıf Bilgisayar Mühendisliği öğrencisiyim. Aktif olarak teknolojileri yakından takip ediyor ve buna göre çalışmalarımı şekillendiriyorum.
+Website tasarımı, ReinforceLearning /DQL / PPO gibi Ai training projeleri üzerine çalışmalar yürütüyorum.
 * 🔭 Şu anda **Backend Mimarileri (C#)** ve **Yapay Zeka** projeleri üzerine çalışıyorum.
 * 🌱 **Python** ve **Derin Öğrenme** kütüphaneleri ile veri odaklı çözümler üretiyorum.
 * ⚡ **Teknolojiler:** C++, PostgreSQL ve Web Teknolojileri (HTML/CSS) konusunda yetkinim.
@@ -49,9 +49,9 @@ Aşağıdaki teknolojileri projelerimde aktif olarak kullanıyorum:
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaattinUysal&theme=radical" alt="profile details"/>
+<br/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlaattinUysal&theme=radical" alt="languages"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaattinUysal&theme=radical&hide_border=true" alt="streak graph" />
-<br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaattinUysal&theme=radical" alt="profile details"/>
 </div>
