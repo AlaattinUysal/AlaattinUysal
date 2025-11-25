@@ -49,17 +49,9 @@ Aşağıdaki teknolojileri projelerimde aktif olarak kullanıyorum:
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlaattinUysal&show_icons=true&theme=radical&hide_border=true&count_private=true&disable_animations=true" height="160" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlaattinUysal&layout=compact&theme=radical&hide_border=true&disable_animations=true" height="160" alt="languages graph" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaattinUysal&theme=radical&hide_border=true" alt="streak graph" />
-  </a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlaattinUysal&theme=radical" alt="languages"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaattinUysal&theme=radical&hide_border=true" alt="streak graph" />
+<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaattinUysal&theme=radical" alt="profile details"/>
 </div>
