@@ -22,7 +22,7 @@ Merhaba, Ben 3.Sınıf Bilgisayar Mühendisliği öğrencisiyim. Aktif olarak te
 Website tasarımı, ReinforceLearning /DQL / PPO gibi Ai training projeleri üzerine çalışmalar yürütüyorum.
 * 🔭 Şu anda **Backend Mimarileri (C#)** ve **Yapay Zeka** projeleri üzerine çalışıyorum.
 * 🌱 **Python** ve **Derin Öğrenme** kütüphaneleri ile veri odaklı çözümler üretiyorum.
-* ⚡ **Teknolojiler:** C++, PostgreSQL ve Web Teknolojileri (HTML/CSS) konusunda yetkinim.
+* ⚡ **Teknolojiler:** Python, C++, PostgreSQL ve Web Teknolojileri (HTML/CSS) konusunda yetkinim.
 
 ---
 
